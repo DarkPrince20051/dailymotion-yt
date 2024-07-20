@@ -1,4 +1,5 @@
 import os
+#sljedeću liniju koda treba instalirati preko cmd ili pypi.org
 from yt_dlp import YoutubeDL
 
 def download_video_to_yt_folder(url, download_path):
